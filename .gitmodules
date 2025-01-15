@@ -1,0 +1,6 @@
+[submodule "guest-user-demo"]
+    path = guest-user-demo
+    url = git@github.com:jonathanyeong/guest-user-demo.git
+[submodule "poop-or-not"]
+    path = poop-or-not
+    url = git@github.com:jonathanyeong/poop-or-not.git
