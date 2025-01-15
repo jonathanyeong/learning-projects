@@ -2,7 +2,8 @@
 
 This repo contains a list of all my learning projects.
 
-*What's a learning project?* It's a tiny short-lived project that has a specific learning goal. A finished learning project does not have to be
+> [!NOTE]
+> *What's a learning project?* It's a tiny short-lived project that has a specific learning goal. A finished learning project does not have to be
 a functioning project.
 
 The goal of learning projects is to build a library of commonly used patterns and components to help speed up development
