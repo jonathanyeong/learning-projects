@@ -17,4 +17,4 @@ on larger projects.
 | Project | whajalearn | Demo URL | Status |
 | ------- | ---------  | -------- | ------ |
 | [Poop Or Not](https://github.com/jonathanyeong/poop-or-not/tree/f38646915f722f7f2af4b65e129cced9a98c2a03) | Kamal, PWA | https://poop-or-not.jonathanyeong.com/ |  ✅ |
-| [Guest User Demo](https://github.com/jonathanyeong/guest-user-demo/tree/5f4d319f3c8a97be47cfaf6f07579b8264d5fef7) | Guest user setup & creation on root_url| | ⏳ |
+| [Guest User Demo](https://github.com/jonathanyeong/guest-user-demo/tree/5f4d319f3c8a97be47cfaf6f07579b8264d5fef7) | Guest user setup & creation on root_url| | ✅ |
