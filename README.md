@@ -14,5 +14,7 @@ on larger projects.
 |  ✅  | complete |
 |  ⏳  | in progress |
 
-- Poop Or Not ✅
-- Guest User Demo ⏳
+| Project | Demo URL | Status |
+| ------- | -------- | ------ |
+| Poop Or Not | https://poop-or-not.jonathanyeong.com/ |  ✅ |
+| Guest User Demo | | ⏳ |
