@@ -9,6 +9,14 @@ a functioning project.
 The goal of learning projects is to build a library of commonly used patterns and components to help speed up development
 on larger projects.
 
+## Commonly used commands
+
+Setting up new Rails app
+
+```bash
+rails-new -u 3.4.1 -r 8.0.1 <app-name> --devcontainer --css tailwind
+```
+
 ## Projects & Status
 
 | key | status |
