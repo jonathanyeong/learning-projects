@@ -1,4 +1,4 @@
-name: "modern_nested_forms"
+name: "turbo_playground"
 
 services:
   rails-app:
